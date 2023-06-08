@@ -1,2 +1,0 @@
-# Bootstrap
- Ejercicio de Bootstrap
